@@ -13,7 +13,6 @@ import java.util.Scanner;
 
 
 public class Main_ezy {
-    @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
         int limit;
         
